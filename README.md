@@ -1,10 +1,22 @@
-# Proyecto 1: Pyzza Place Salethon
+# Proyecto 1: Pyzza Place Salethon (15/07 - 07/08)
 
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Jupyter%20Lab-orange.svg)](https://enzohe23.github.io/Projecto1.Pyzza-Place-Salethon/)
 
 Para ver el proyecto de forma interactiva, haga clic en el icono de badge de arriba ('Clic para abrir Jupyter Lab').
 
 Si no le funciona, haga clic en el siguiente link: https://enzohe23.github.io/Projecto1.Pyzza-Place-Salethon/
+
+## Resumen
+
+El proyecto busca aplicar análisis de datos con el fin de generar insights para una pizzería, así como mostrar resultados con ayuda de gráficos claros e interactivos. Para ello, se utilizaron datasets públicos de Maven Analytics que contenían: datos de las órdenes hechas en cada fecha del año 2015 y en cada momento del día; las pizzas y cantidades pedidas en cada orden; los tamaños y costos de cada pizza; y el tipo de pizza, su nombre y categoría y sus ingredientes. Todo el proyecto se desarrolló en un archivo de Jupyter Notebook.
+
+## 📖 Contenidos 📖
+
+1. [📰 Acerca del proyecto 📰](#-acerca-del-proyecto-)
+2. [📃 Objetivos y preguntas 📃](#-objetivos-y-preguntas-)
+3. [📊 Procedimientos 📊](#-procedimientos-)
+4. [📝 Conclusiones e ideas post-análisis 📝](#-conclusiones-e-ideas-post-análisis-)
+5. [📂 Ingresar al análisis en código 📂](#-ingresar-al-análisis-en-código-)
 
 ## 📰 Acerca del proyecto 📰
 
@@ -27,10 +39,12 @@ Datasets y diccionario de 'Pizza Place Sales': https://mavenanalytics.io/data-pl
 
 ## 📃 Objetivos y preguntas 📃
 
-Hay 2 objetivos que se buscaron completar en este análisis *(Aunque se trate de una pizzería ficticia, se puede aplicar algo similar y mejor para un caso real)*:
+*(Aunque se trate de una pizzería ficticia, se puede aplicar algo similar y mejor para un caso real)*
 
-- Hallar oportunidades de mejora para el negocio.
-- Aportar mayor conocimiento del negocio a quienes lo manejan.
+Hay 2 objetivos que se buscaron completar en este análisis:
+
+1. Hallar oportunidades de mejora para el negocio.
+2. Aportar mayor conocimiento del negocio a quienes lo manejan.
 
 Hubieron 5 preguntas que se respondieron en este análisis:
 
@@ -39,6 +53,22 @@ Hubieron 5 preguntas que se respondieron en este análisis:
 3. ¿Qué pizzas son los que más ganancias le han generado al negocio? ¿Y cuáles son las más populares?
 4. ¿Cuáles son los ingredientes más importantes para el negocio?
 5. ¿Cuáles son las pizzas menos pedidas y por qué?
+
+## 📊 Procedimientos 📊
+
+1) Se pasaron los datos de archivos .csv a dataframes.
+2) Se realizó múltiples manipulaciones de datos hasta conseguir resultados deseados en cada pregunta:
+    1. Las 5 fechas con la mayor cantidad de ganancias totales y unidades pedidas.
+    2. Los 5 meses, días y horas con la mayor cantidad de ganancias totales y unidades pedidas.
+    3. Las 3 categorías, los 3 tamaños y las 5 pizzas, con la mayor cantidad de ganancias totales y unidades pedidas.
+    4. Los ingredientes de todas las pizzas, que aparecieran por lo menos en la mitad del total de unidades pedidas en el año 2015.
+    5. Las 5 pizzas con la menor cantidad de unidades pedidas, junto con una explicación del porqué de esas bajas ventas.
+3) Se agregó 1 gráfico por cada pregunta, siendo 3 de estos interactivos, para facilitar el entendimiento de los resultados alcanzados.
+4) Se crearon 2 subsecciones para separar contenidos en las preguntas: **Planteamiento** y **Respuesta**.
+5) Se mejoró la subsección de Planteamiento para que sólo contenga lo importante para el análisis.
+6) Se mejoró la subsección de Respuesta para que, en caso de que el usuario quiera ver el gráfico sin haber pasado por la subsección anterior, pueda hacerlo sin problema.
+7) Se realizaron propuestas y sugerencias a partir de los resultados obtenidos en las 5 preguntas.
+8) Se añadió una explicación inicial para que el usuario, al abrir el proyecto, se familiarice con lo necesario para interactuar con el Notebook.
 
 ## 📝 Conclusiones e ideas post-análisis 📝
 
@@ -51,13 +81,9 @@ Hubieron 5 preguntas que se respondieron en este análisis:
 ## 📂 Ingresar al análisis en código 📂
 
 Ingrese al Jupyter Lab mediante el badge o el link que aparecen al inicio de toda esta descripción. Una vez dentro, hará clic en el archivo que dice 'CodigoAnalisis.ipynb'.
-<div><br><div>
-<img src="https://github.com/user-attachments/assets/4e9a113b-604a-40bc-a555-557878a85dc9" width="100%" height="auto">
-<div><br><div>
+
 Después, hará clic en el icono del folder que aparece en la esquina superior izquierda. Esto aumentará el espacio que tiene el Notebook para mostrar contenido, y es obligatorio si quiere visualizar los gráficos de manera adecuada.
-<div><br><div>
-<img src="https://github.com/user-attachments/assets/b144b351-ab8f-4c98-96b8-d00eb74fbdd8" width="100%" height="auto">
-<div><br><div>
+
 Y ahora sí, puede interacturar con el Notebook con tranquilidad. El Jupyter Lab debería verse así:
 <div><br><div>
 <img src="https://github.com/user-attachments/assets/40684fa5-ca19-4f50-855c-6acf6d32ab3d" width="100%" height="auto">
