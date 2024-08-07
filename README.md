@@ -50,7 +50,14 @@ Hubieron 5 preguntas que se respondieron en este análisis:
 
 ## 📂 Ingresar al análisis en código 📂
 
-Ingrese al Jupyter Lab mediante el badge o el link que aparecen al inicio de toda esta descripción. Una vez dentro, hará click en el archivo que dice 'CodigoAnalisis.ipynb', y hará caso a las instrucciones que aparecen dentro:
+Ingrese al Jupyter Lab mediante el badge o el link que aparecen al inicio de toda esta descripción. Una vez dentro, hará click en el archivo que dice 'CodigoAnalisis.ipynb'.
 
 ![image](https://github.com/user-attachments/assets/180b7b8f-f6ea-4687-b304-bde0a2f07215)
 
+Después, hará clic en el icono del folder que aparece en la esquina superior izquierda. Esto aumentará el espacio que tiene el Notebook para mostrar contenido, y es obligatorio si quiere visualizar los gráficos de manera adecuada.
+
+![image](https://github.com/user-attachments/assets/e4f810ad-2819-4e64-b048-da3aa3b8720d)
+
+Y ahora sí, puede interacturar con el Notebook con tranquilidad. El Jupyter Lab debería verse así:
+
+![image](https://github.com/user-attachments/assets/5a56aa39-3453-4a4e-8b08-7f2f9eedf1a7)
