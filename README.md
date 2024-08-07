@@ -4,7 +4,7 @@
 
 Para ver el proyecto de forma interactiva, haga clic en el icono de badge de arriba ('Clic para abrir Jupyter Lab').
 
-Si no le funciona, haga click en el siguiente link: https://enzohe23.github.io/Projecto1.Pyzza-Place-Salethon/
+Si no le funciona, haga clic en el siguiente link: https://enzohe23.github.io/Projecto1.Pyzza-Place-Salethon/
 
 ## 📰 Acerca del proyecto 📰
 
@@ -50,7 +50,7 @@ Hubieron 5 preguntas que se respondieron en este análisis:
 
 ## 📂 Ingresar al análisis en código 📂
 
-Ingrese al Jupyter Lab mediante el badge o el link que aparecen al inicio de toda esta descripción. Una vez dentro, hará click en el archivo que dice 'CodigoAnalisis.ipynb'.
+Ingrese al Jupyter Lab mediante el badge o el link que aparecen al inicio de toda esta descripción. Una vez dentro, hará clic en el archivo que dice 'CodigoAnalisis.ipynb'.
 
 ![image](https://github.com/user-attachments/assets/180b7b8f-f6ea-4687-b304-bde0a2f07215)
 
