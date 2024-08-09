@@ -61,7 +61,7 @@ Hubieron 5 preguntas que se respondieron en este análisis:
     1. Las 5 fechas con la mayor cantidad de ganancias totales y unidades pedidas.
     2. Los 5 meses, días y horas con la mayor cantidad de ganancias totales y unidades pedidas.
     3. Las 3 categorías, los 3 tamaños y las 5 pizzas, con la mayor cantidad de ganancias totales y unidades pedidas.
-    4. Los ingredientes de todas las pizzas, que aparecieran por lo menos en la mitad del total de unidades pedidas en el año 2015.
+    4. Los ingredientes de todas las pizzas, que aparecieran por lo menos en un tercio del total de unidades pedidas en el año 2015.
     5. Las 5 pizzas con la menor cantidad de unidades pedidas, junto con una explicación del porqué de esas bajas ventas.
 3) Se agregó 1 gráfico por cada pregunta, siendo 3 de estos interactivos, para facilitar el entendimiento de los resultados alcanzados.
 4) Se crearon 2 subsecciones para separar contenidos en las preguntas: **Planteamiento** y **Respuesta**.
