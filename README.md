@@ -1,4 +1,4 @@
-# Proyecto 1: Pyzza Place Salethon (15/07 - 07/08)
+# Proyecto 1: Ventas de Pizza con Python (15/07 - 07/08)
 
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Jupyter%20Lab-orange.svg)](https://enzohe23.github.io/Projecto1.Pyzza-Place-Salethon/)
 
